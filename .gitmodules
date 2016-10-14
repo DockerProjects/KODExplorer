@@ -1,0 +1,3 @@
+[submodule "KODExplorer"]
+	path = KODExplorer
+	url = https://github.com/kalcaddle/KODExplorer.git
